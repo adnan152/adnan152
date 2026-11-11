@@ -32,6 +32,4 @@ ASP.NET Core MVC web app that generates a day-by-day itinerary and budget breakd
 House rental platform where tenants browse properties and send rental requests. Django frontend with a FastAPI REST API.
 `Python` `Django` `FastAPI` `SQLite`
 
-## GitHub Stats
 
-![Adnan's GitHub stats](https://github-readme-stats.vercel.app/api?username=adnan152&show_icons=true&theme=default)
